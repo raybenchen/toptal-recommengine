@@ -1,6 +1,6 @@
 # Toptal-Recommengine
 
-Toptal-Recommengine is a prototype recommendation engine built to accompany an article on Toptal Blog.
+Toptal-Recommengine is a prototype recommendation engine  built to accompany an article on Toptal Blog.
 
 ## Usage
 
@@ -12,3 +12,4 @@ cd toptal-recommengine
 npm install
 npm start
 ```
+
